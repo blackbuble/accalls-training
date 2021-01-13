@@ -1,0 +1,2896 @@
+# Copyright (C) 2020 edubin
+# This file is distributed under the same license as the edubin package.
+msgid ""
+msgstr ""
+"Project-Id-Version: edubin\n"
+"Report-Msgid-Bugs-To: https://www.thepixelcurve.com\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2020-MO-DA HO:MI+ZONE\n"
+"Last-Translator: ThePixelcurve <help.thepixelcurve@gmail.com>\n"
+"Language-Team: ThePixelcurve <https://www.thepixelcurve.com/>\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: 404.php:22
+msgid "404"
+msgstr ""
+
+#: admin/admin-pages/admin.php:13, admin/admin-pages/edubin-welcome.php:43
+msgid "Welcome"
+msgstr ""
+
+#: admin/admin-pages/admin.php:16, admin/admin-pages/admin.php:16, admin/admin-pages/edubin-welcome.php:46
+msgid "Demo Import"
+msgstr ""
+
+#: admin/admin-pages/edubin-welcome.php:33
+msgid "Welcome to Edubin"
+msgstr ""
+
+#: admin/admin-pages/edubin-welcome.php:35
+msgid "Edubin theme is now installed and ready to use!"
+msgstr ""
+
+#: admin/admin-pages/edubin-welcome.php:44
+msgid "Theme Options"
+msgstr ""
+
+#: admin/admin-pages/edubin-welcome.php:55
+msgid "Before you get started, please be sure to always check out documentation Which Included In the theme folder or from %s We outline all kinds of good information and provide you with all the details you need to use edubin."
+msgstr ""
+
+#: admin/admin-pages/edubin-welcome.php:58
+msgid "If you are unable to find your answer in our documentation, please contact us via %s with your purchase code & admin login info."
+msgstr ""
+
+#: admin/admin-pages/edubin-welcome.php:64
+msgid "Quick install & demo importing video guide."
+msgstr ""
+
+#: admin/admin-pages/edubin-welcome.php:70
+msgid "LearnDash LMS step by step setup video guide."
+msgstr ""
+
+#: admin/admin-pages/edubin-welcome.php:77
+msgid "System Status"
+msgstr ""
+
+#: admin/admin-pages/edubin-welcome.php:82
+msgid "WP Version"
+msgstr ""
+
+#: admin/admin-pages/edubin-welcome.php:87, admin/theme-panel/learnpress.php:528
+msgid "Language"
+msgstr ""
+
+#: admin/admin-pages/edubin-welcome.php:92
+msgid "WP Memory Limit"
+msgstr ""
+
+#: admin/admin-pages/edubin-welcome.php:97
+msgid "%s - We recommend setting memory to at least 96MB. %s."
+msgstr ""
+
+#: admin/admin-pages/edubin-welcome.php:97
+msgid "More info"
+msgstr ""
+
+#: admin/admin-pages/edubin-welcome.php:105
+msgid "PHP Max Input Vars"
+msgstr ""
+
+#: admin/admin-pages/edubin-welcome.php:109
+msgid "%s - We recommend setting PHP max_input_vars to at least 3000. See: <a href=\"%s\" target=\"_blank\">Increasing the PHP max vars limit</a>"
+msgstr ""
+
+#: admin/admin-pages/edubin-welcome.php:117
+msgid "PHP Version"
+msgstr ""
+
+#: admin/admin-pages/edubin-welcome.php:137
+msgid "Secure Connection(HTTPS)"
+msgstr ""
+
+#: admin/admin-pages/edubin-welcome.php:150
+msgid "Theme Information"
+msgstr ""
+
+#: admin/admin-pages/edubin-welcome.php:155
+msgid "Theme Name"
+msgstr ""
+
+#: admin/admin-pages/edubin-welcome.php:160
+msgid "Author Name"
+msgstr ""
+
+#: admin/admin-pages/edubin-welcome.php:165
+msgid "Current Version"
+msgstr ""
+
+#: admin/admin-pages/edubin-welcome.php:170
+msgid "Text Domain"
+msgstr ""
+
+#: admin/admin-pages/edubin-welcome.php:175, admin/envato_setup/envato_setup.php:2042
+msgid "Child Theme"
+msgstr ""
+
+#: admin/admin-pages/edubin-welcome.php:184
+msgid "Active Plugins ("
+msgstr ""
+
+#: admin/custom-controls.php:198
+msgid "Select weight for"
+msgstr ""
+
+#: admin/custom-controls.php:198
+msgid "bold text"
+msgstr ""
+
+#: admin/custom-controls.php:575
+msgid "Add"
+msgstr ""
+
+#: admin/customizer.php:151
+msgid "Play background video"
+msgstr ""
+
+#: admin/customizer.php:152
+msgid "Pause background video"
+msgstr ""
+
+#: admin/customizer.php:190
+msgid "Follow me on Behance"
+msgstr ""
+
+#: admin/customizer.php:191
+msgid "Fork me on Bitbucket"
+msgstr ""
+
+#: admin/customizer.php:192
+msgid "Follow me on Dribbble"
+msgstr ""
+
+#: admin/customizer.php:193
+msgid "Like me on Facebook"
+msgstr ""
+
+#: admin/customizer.php:194
+msgid "Connect with me on Flickr"
+msgstr ""
+
+#: admin/customizer.php:195
+msgid "Fork me on GitHub"
+msgstr ""
+
+#: admin/customizer.php:196
+msgid "Follow me on Instagram"
+msgstr ""
+
+#: admin/customizer.php:198
+msgid "Connect with me on LinkedIn"
+msgstr ""
+
+#: admin/customizer.php:199
+msgid "Folllow me on Medium"
+msgstr ""
+
+#: admin/customizer.php:200
+msgid "Follow me on Pinterest"
+msgstr ""
+
+#: admin/customizer.php:201
+msgid "Connect with me on Google+"
+msgstr ""
+
+#: admin/customizer.php:202
+msgid "Join me on Slack"
+msgstr ""
+
+#: admin/customizer.php:203
+msgid "Add me on Snapchat"
+msgstr ""
+
+#: admin/customizer.php:204
+msgid "Follow me on SoundCloud"
+msgstr ""
+
+#: admin/customizer.php:205
+msgid "Join me on Stack Overflow"
+msgstr ""
+
+#: admin/customizer.php:206
+msgid "Follow me on Tumblr"
+msgstr ""
+
+#: admin/customizer.php:207
+msgid "Follow me on Twitter"
+msgstr ""
+
+#: admin/customizer.php:208
+msgid "Follow me on Vimeo"
+msgstr ""
+
+#: admin/customizer.php:209
+msgid "Subscribe to me on YouTube"
+msgstr ""
+
+#: admin/customizer.php:336
+msgid "General"
+msgstr ""
+
+#: admin/customizer.php:342
+msgid "Header"
+msgstr ""
+
+#: admin/customizer.php:348, admin/tgm/tgm-init.php:65
+msgid "Tutor LMS"
+msgstr ""
+
+#: admin/customizer.php:354
+msgid "LearnPress LMS"
+msgstr ""
+
+#: admin/customizer.php:360
+msgid "LearnDash LMS"
+msgstr ""
+
+#: admin/customizer.php:366
+msgid "Zoom Meeting"
+msgstr ""
+
+#: admin/customizer.php:372
+msgid "Events"
+msgstr ""
+
+#: admin/customizer.php:378
+msgid "Footer"
+msgstr ""
+
+#: admin/customizer.php:385, admin/theme-panel/typography.php:4
+msgid "Typography"
+msgstr ""
+
+#: admin/customizer.php:386
+msgid "Configure your fonts."
+msgstr ""
+
+#: admin/customizer.php:399
+msgid "Name & Logo"
+msgstr ""
+
+#: admin/customizer.php:404
+msgid "Colors"
+msgstr ""
+
+#: admin/customizer.php:409
+msgid "Background Image"
+msgstr ""
+
+#: admin/customizer.php:416
+msgid "404 Page"
+msgstr ""
+
+#: admin/customizer.php:422
+msgid "Page Header"
+msgstr ""
+
+#: admin/customizer.php:482
+msgid "Body Typography"
+msgstr ""
+
+#: admin/customizer.php:501
+msgid "Body Font Size"
+msgstr ""
+
+#: admin/customizer.php:521
+msgid "Body Line Height"
+msgstr ""
+
+#: admin/customizer.php:546
+msgid "Heading Typography"
+msgstr ""
+
+#: admin/customizer.php:570
+msgid "Menu Typography"
+msgstr ""
+
+#: admin/customizer.php:594
+msgid "Sub Menu Typography"
+msgstr ""
+
+#: admin/edubin-demo-import.php:13, admin/edubin-demo-import.php:43
+msgid "<a target=\"_blank\" class=\"button edubin-ld-video-link\" href=\"https://www.youtube.com/watch?v=FoXWLqJPZz0\">Installation & Setup Guide</a> Don't activate more than one LMS plugin at the same site. By importing it you will get the site dummy with <span style=\"color:#ec5761\">LearnPress</span> LMS content."
+msgstr ""
+
+#: admin/edubin-demo-import.php:23, admin/edubin-demo-import.php:53
+msgid "Don't activate more than one LMS plugin at the same site. By importing it you will get the site dummy with <span style='color:#ec5761'>Tutor</span> LMS content."
+msgstr ""
+
+#: admin/edubin-demo-import.php:33, admin/edubin-demo-import.php:63
+msgid "<a target=\"_blank\" class=\"button edubin-ld-video-link\" href=\"https://youtu.be/_qg0igPtPF8\">LearnDash Installation Guide</a> Don't activate more than one LMS plugin at the same site. By importing it you will get the <span style=\"color:#ec5761\">LearnDash</span> LMS dummy."
+msgstr ""
+
+#: admin/edubin-demo-import.php:74
+msgid "By importing it you will get the <span style=\"color:#ec5761\">Kids/School</span> dummy."
+msgstr ""
+
+#: admin/edubin-demo-import.php:84
+msgid "Don't activate more than one LMS plugin at the same site. By importing it you will get <span style=\"color:#ec5761\">RTL ready with LearnPress LMS</span> dummy. If you want to use RTL with LearnDash or Tutor LMS plugin. Please deactivate all other LMS plugins on your site, reset your site permalink then activate your LearnDash or Tutor LMS plugin."
+msgstr ""
+
+#: admin/envato_setup/envato_setup_init.php:58
+msgid "Upgrade"
+msgstr ""
+
+#: admin/envato_setup/envato_setup_init.php:59
+msgid "Upgrade Content and Settings"
+msgstr ""
+
+#: admin/envato_setup/envato_setup_init.php:60, admin/envato_setup/envato_setup.php:877, admin/envato_setup/envato_setup.php:890, admin/envato_setup/envato_setup.php:900
+msgid "Pending."
+msgstr ""
+
+#: admin/envato_setup/envato_setup_init.php:61
+msgid "Installing Updates."
+msgstr ""
+
+#: admin/envato_setup/envato_setup_init.php:62, admin/envato_setup/envato_setup.php:879, admin/envato_setup/envato_setup.php:892, admin/envato_setup/envato_setup.php:902
+msgid "Success."
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:344, admin/envato_setup/envato_setup.php:344
+msgid "Setup Wizard"
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:359
+msgid "Introduction"
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:366
+msgid "Plugins"
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:372
+msgid "Updates"
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:378
+msgid "Customize"
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:383
+msgid "Support"
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:388
+msgid "Ready!"
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:423
+msgid "...verifying"
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:478
+msgid "Theme &rsaquo; Setup Wizard"
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:496
+msgid "Envato install wizard"
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:509
+msgid "Return to the WordPress Dashboard"
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:591, admin/envato_setup/envato_setup.php:602, admin/envato_setup/envato_setup.php:617
+msgid "Welcome to the setup wizard for %s."
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:592
+msgid "It looks like you may have recently upgraded to this theme. Great! This setup wizard will help ensure all the default settings are correct. It will also show some information about your new website and support options."
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:595, admin/envato_setup/envato_setup.php:623
+msgid "Let's Go!"
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:597, admin/envato_setup/envato_setup.php:625
+msgid "Not right now"
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:603
+msgid "It looks like you have already run the setup wizard. Below are some options: "
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:607
+msgid "Run Setup Wizard Again"
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:612
+msgid "Cancel"
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:618
+msgid "Click to see Theme Install & Import Demo Content Video Guide"
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:619
+msgid "Thank you for choosing the %s theme from ThemeForest. This quick setup wizard will help you configure your new website. This wizard will install the required WordPress plugins, default content, logo and tell you a little about Help &amp; Support options. It should only take few minutes."
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:620
+msgid "No time right now? If you don't want to go through the wizard, you can skip and return to the WordPress dashboard. Come back anytime if you change your mind!"
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:669
+msgid "Options have been reset. Please go to Appearance > Customize in the WordPress backend."
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:746
+msgid "Default Plugins"
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:753
+msgid "Your website needs a few essential plugins. The following plugins will be installed or updated:"
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:778
+msgid "Good news! All plugins are already installed and up to date. Please continue."
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:781
+msgid "You can add and remove plugins later on from within WordPress."
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:786, admin/envato_setup/envato_setup.php:959, admin/envato_setup/envato_setup.php:1979, admin/envato_setup/envato_setup.php:1993, admin/envato_setup/envato_setup.php:2049
+msgid "Continue"
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:788, admin/envato_setup/envato_setup.php:961
+msgid "Skip this step"
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:798
+msgid "No Slug Found"
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:814
+msgid "Activating Plugin"
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:829
+msgid "Updating Plugin"
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:844
+msgid "Installing Plugin"
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:854
+msgid "Success"
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:876
+msgid "This will create default %s as seen in the demo."
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:878
+msgid "Installing."
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:888
+msgid "Widgets"
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:889
+msgid "Insert default sidebar widgets as seen in the demo."
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:891
+msgid "Installing Default Widgets."
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:898
+msgid "Settings"
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:899
+msgid "Configure default settings."
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:901
+msgid "Installing Default Settings."
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:919
+msgid "Default Content"
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:922
+msgid "It looks like you already have content installed on this website. If you would like to install the default demo content as well you can select it below. Otherwise just choose the upgrade option to ensure everything is up to date."
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:924
+msgid "It's time to insert some default content for your new WordPress website. Choose what you would like inserted below and click Continue. It is recommended to leave everything selected. Once inserted, this content can be managed from the WordPress admin dashboard. "
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:930
+msgid "Item"
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:931
+msgid "Description"
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:932, admin/tgm/class-tgm-plugin-activation.php:5293
+msgid "Status"
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:972
+msgid "No content Found"
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:1040
+msgid "Error"
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:1910
+msgid "Remote server did not respond"
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:1918
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:1924
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:1930
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:1951
+msgid "Theme Updates"
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:1968
+msgid "Thanks! Theme updates have been enabled for the following items:"
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:1974, admin/envato_setup/envato_setup.php:1985
+msgid "When an update becomes available it will show in the Dashboard with an option to install."
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:1975
+msgid "Change settings from the 'Envato Market' menu in the WordPress Dashboard."
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:1984
+msgid "ThemeForest account to enable Theme Updates. We update themes when a new feature is added or a bug is fixed. It is highly recommended to enable Theme Updates."
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:1987
+msgid "If you have any questions please "
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:1988
+msgid "Contact us."
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:1996
+msgid "Login with Envato"
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:2003
+msgid "Please ensure the Envato Market plugin has been installed correctly."
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:2004
+msgid ""
+"Return to Required\n"
+"                Plugins installer."
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:2027
+msgid "Theme Customization"
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:2028
+msgid ""
+"Most changes to the website can be made through the Edubin > Theme Options menu from the WordPress\n"
+"            dashboard. These include:"
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:2032
+msgid "Styles: Whole site global settings, typography, colors, styles, etc."
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:2034
+msgid "Variation: You can change all of the header & home page variation from here!"
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:2035
+msgid "LMS Options: You can manage LearnPress and LearnDash LMS options."
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:2036
+msgid "Blog: Here you will get all blog related options."
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:2037
+msgid "Plugins: You can manage WooCommerce products & The Events Calendar plugin settings."
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:2039
+msgid "To change the Sidebars go to Appearance > Widgets. Here widgets can be \"drag &amp; droped\" into sidebars. More details in documentation."
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:2041
+msgid "Advanced Users: If you are going to make changes to the theme source code please use a"
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:2042
+msgid ""
+"rather than\n"
+"                modifying the main theme HTML/CSS/PHP code. This allows the parent theme to receive updates without\n"
+"                overwriting your source code changes."
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:2044
+msgid "See"
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:2044
+msgid "edubin-child.zip"
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:2044
+msgid "in the main theme folder."
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:2057
+msgid "Help and Support"
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:2058
+msgid ""
+"This theme comes with 6 months item support from purchase date (with the option to extend this period).\n"
+"                This license allows you to use this theme on a single website. Please purchase an additional license to\n"
+"                use this theme on another website."
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:2062
+msgid "Item Support can be accessed from"
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:2062
+msgid "ThePixelcurve Help"
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:2063
+msgid "and includes:"
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:2065
+msgid "Availability of the author to answer questions"
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:2066
+msgid "Answering technical questions about item features"
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:2067
+msgid "Assistance with reported bugs and issues"
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:2068
+msgid "Help with bundled 3rd party plugins"
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:2071
+msgid "Item Support DOES NOT Include:"
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:2073
+msgid "Customization services"
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:2075
+msgid "Installation services"
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:2077
+msgid "Help and Support for non-bundled 3rd party plugins (i.e. plugins you install yourself later on)"
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:2079
+msgid "More details about item support can be found in the ThemeForest"
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:2080
+msgid "Item Support Polity."
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:2083
+msgid "Agree and Continue"
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:2111
+msgid "Your Website is Ready!"
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:2113
+msgid ""
+"Congratulations! The theme has been activated and your website is ready. Login to your WordPress\n"
+"            dashboard to make changes and modify any of the default content to suit your needs."
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:2115
+msgid "Please come back and"
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:2115
+msgid "https://themeforest.net/downloads"
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:2115
+msgid "leave a 5-star rating."
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:2116
+msgid "if you are happy with this theme"
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:2116
+msgid "Follow"
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:2117
+msgid "https://web.facebook.com/thepixelcurve/"
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:2117
+msgid "@Pixelcurve"
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:2118
+msgid "on Facebook to see updates. Thanks!"
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:2122
+msgid "Next Steps"
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:2126
+msgid "Import Dummy Data"
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:2129
+msgid "View your new website!"
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:2134
+msgid "More Resources"
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:2137
+msgid "Read the Theme Documentation"
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:2140
+msgid "Learn how to use WordPress"
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:2143
+msgid "Leave an Item Rating"
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:2145
+msgid "Get Help and Support"
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:2212
+msgid "Something went wrong while trying to retrieve oauth token: %s"
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:2229
+msgid "Login for %s updates"
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:2236
+msgid "oAuth Login"
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:2398
+msgid "<a target=\"_blank\" class=\"\" href=\"%s\">Follow the article to configure it</a>."
+msgstr ""
+
+#: admin/envato_setup/envato_setup.php:2400
+msgid "Or If you need any help, please do not hesitate to contact our support desk. <a target=\"_blank\" class=\"\" href=\"%s\">https://thepixelcurve.com/support/ </a>"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:667
+msgid "Install Required Plugins"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:669
+msgid "Install Plugins"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:673
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:677
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:679
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:783
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:785, admin/tgm/class-tgm-plugin-activation.php:1839, admin/tgm/class-tgm-plugin-activation.php:5251, admin/tgm/class-tgm-plugin-activation.php:7345
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:787, admin/tgm/class-tgm-plugin-activation.php:6503
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:789, admin/tgm/class-tgm-plugin-activation.php:6089
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:793
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:797
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:801
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:803
+msgid "Dismiss this notice"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:805
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:807
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:1213
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:1215
+msgid "Update Required"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:1449
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2053
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2053, admin/tgm/class-tgm-plugin-activation.php:2059
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2059
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:4769
+msgid "WordPress Repository"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:4775
+msgid "External Source"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:4781
+msgid "Pre-Packaged"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:4815
+msgid "Not Installed"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:4823
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:4827
+msgid "Active"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:4839
+msgid "Required Update not Available"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:4845
+msgid "Requires Update"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:4851
+msgid "Update recommended"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:4869
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:4961
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:4969
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:4977
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:4985
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:5149
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:5165
+msgid "Installed version:"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:5181
+msgid "Minimum required version:"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:5205
+msgid "Available version:"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:5251
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:5279
+msgid "Plugin"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:5281
+msgid "Source"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:5283
+msgid "Type"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:5291
+msgid "Version"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:5391
+msgid "Install %2$s"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:5401
+msgid "Update %2$s"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:5413
+msgid "Activate %2$s"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:5553
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:5619
+msgid "Install"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:5631
+msgid "Update"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:5637
+msgid "Activate"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:5699
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:5703
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:5785
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:5789
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:6001
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:6053
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:6081
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:6501
+msgid "Plugin activation failed."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:7181
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:7187
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:7191
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:7199
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:7205
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:7209
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:7215
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:7221
+msgid "All installations have been completed."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:7225
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: admin/tgm/tgm-init.php:32
+msgid "Envato Market"
+msgstr ""
+
+#: admin/tgm/tgm-init.php:38
+msgid "Elementor"
+msgstr ""
+
+#: admin/tgm/tgm-init.php:43
+msgid "Edubin Core"
+msgstr ""
+
+#: admin/tgm/tgm-init.php:50
+msgid "WooCommerce"
+msgstr ""
+
+#: admin/tgm/tgm-init.php:55
+msgid "LearnPress"
+msgstr ""
+
+#: admin/tgm/tgm-init.php:60
+msgid "LearnPress Course Review"
+msgstr ""
+
+#: admin/tgm/tgm-init.php:70
+msgid "The Events Calender"
+msgstr ""
+
+#: admin/tgm/tgm-init.php:75
+msgid "Registrations for The Events Calendar"
+msgstr ""
+
+#: admin/tgm/tgm-init.php:80
+msgid "Loco Translate"
+msgstr ""
+
+#: admin/tgm/tgm-init.php:85
+msgid "WPForms"
+msgstr ""
+
+#: admin/tgm/tgm-init.php:90
+msgid "One Click Demo Import"
+msgstr ""
+
+#: admin/tgm/tgm-init.php:95
+msgid "CMB2"
+msgstr ""
+
+#: admin/theme-panel/blog.php:4
+msgid "Blog"
+msgstr ""
+
+#: admin/theme-panel/blog.php:11
+msgid "Blog Page"
+msgstr ""
+
+#: admin/theme-panel/blog.php:26, admin/theme-panel/blog.php:138, admin/theme-panel/learndash.php:224, admin/theme-panel/woocommerce.php:6, admin/theme-panel/woocommerce.php:20
+msgid "Sidebar"
+msgstr ""
+
+#: admin/theme-panel/blog.php:27, admin/theme-panel/blog.php:139, admin/theme-panel/woocommerce.php:21
+msgid "Select your sidebar position"
+msgstr ""
+
+#: admin/theme-panel/blog.php:32, admin/theme-panel/blog.php:144, admin/theme-panel/woocommerce.php:26
+msgid "Left Sidebar"
+msgstr ""
+
+#: admin/theme-panel/blog.php:36, admin/theme-panel/blog.php:148, admin/theme-panel/woocommerce.php:30
+msgid "No Sidebar"
+msgstr ""
+
+#: admin/theme-panel/blog.php:40, admin/theme-panel/blog.php:152, admin/theme-panel/woocommerce.php:34
+msgid "Right Sidebar"
+msgstr ""
+
+#: admin/theme-panel/blog.php:56, admin/theme-panel/blog.php:167
+msgid "Author"
+msgstr ""
+
+#: admin/theme-panel/blog.php:71, admin/theme-panel/blog.php:182
+msgid "Post Date"
+msgstr ""
+
+#: admin/theme-panel/blog.php:86, admin/theme-panel/blog.php:197, admin/theme-panel/learnpress.php:232, admin/theme-panel/tutor.php:258, tutor-advanced-course-filter.php:254
+msgid "Category"
+msgstr ""
+
+#: admin/theme-panel/blog.php:101, admin/theme-panel/blog.php:212, include/learnpress.php:748, include/template-functions.php:268, include/template-functions.php:281
+msgid "Comment"
+msgstr ""
+
+#: admin/theme-panel/blog.php:115, admin/theme-panel/blog.php:226
+msgid "Post view"
+msgstr ""
+
+#: admin/theme-panel/blog.php:123, admin/theme-panel/learndash.php:209, admin/theme-panel/learnpress.php:203, admin/theme-panel/tribe_events.php:58, admin/theme-panel/tutor.php:324
+msgid "Single Page"
+msgstr ""
+
+#: admin/theme-panel/blog.php:240
+msgid "Tags view"
+msgstr ""
+
+#: admin/theme-panel/color.php:13
+msgid "Primary Color"
+msgstr ""
+
+#: admin/theme-panel/color.php:39
+msgid "Secondary Color"
+msgstr ""
+
+#: admin/theme-panel/color.php:66, admin/theme-panel/color.php:161, admin/theme-panel/color.php:281, admin/theme-panel/color.php:326, admin/theme-panel/color.php:396, admin/theme-panel/color.php:519, admin/theme-panel/color.php:723, admin/theme-panel/color.php:765, admin/theme-panel/color.php:860, admin/theme-panel/color.php:928, admin/theme-panel/color.php:1130
+msgid ""
+msgstr ""
+
+#: admin/theme-panel/color.php:82
+msgid "Header Top Text"
+msgstr ""
+
+#: admin/theme-panel/color.php:109
+msgid "Header Top Link"
+msgstr ""
+
+#: admin/theme-panel/color.php:135
+msgid "Header Top Background"
+msgstr ""
+
+#: admin/theme-panel/color.php:177
+msgid "Header Banner Overlay"
+msgstr ""
+
+#: admin/theme-panel/color.php:203
+msgid "Header Menu Background"
+msgstr ""
+
+#: admin/theme-panel/color.php:229
+msgid "Header Sticky Menu Background"
+msgstr ""
+
+#: admin/theme-panel/color.php:255
+msgid "Search Popup Overlay"
+msgstr ""
+
+#: admin/theme-panel/color.php:299
+msgid "Title Color"
+msgstr ""
+
+#: admin/theme-panel/color.php:342
+msgid "Link Color"
+msgstr ""
+
+#: admin/theme-panel/color.php:369
+msgid "Link Hover Color"
+msgstr ""
+
+#: admin/theme-panel/color.php:412
+msgid "Button Text"
+msgstr ""
+
+#: admin/theme-panel/color.php:438
+msgid "Button Hover Text"
+msgstr ""
+
+#: admin/theme-panel/color.php:464
+msgid "Button Background"
+msgstr ""
+
+#: admin/theme-panel/color.php:492
+msgid "Button Background Hover"
+msgstr ""
+
+#: admin/theme-panel/color.php:535
+msgid "Menu Text Color"
+msgstr ""
+
+#: admin/theme-panel/color.php:561
+msgid "Menu Active/Hover Color"
+msgstr ""
+
+#: admin/theme-panel/color.php:588
+msgid "Sub Menu Text Color"
+msgstr ""
+
+#: admin/theme-panel/color.php:616
+msgid "Sub Menu Arrow Color"
+msgstr ""
+
+#: admin/theme-panel/color.php:643
+msgid "Sub Menu Background Color"
+msgstr ""
+
+#: admin/theme-panel/color.php:670
+msgid "Sub Menu Border Color"
+msgstr ""
+
+#: admin/theme-panel/color.php:696
+msgid "Mobile Menu Icon Color"
+msgstr ""
+
+#: admin/theme-panel/color.php:739
+msgid "Placeholder"
+msgstr ""
+
+#: admin/theme-panel/color.php:781
+msgid "Preloader Primary"
+msgstr ""
+
+#: admin/theme-panel/color.php:807
+msgid "Preloader Secondary "
+msgstr ""
+
+#: admin/theme-panel/color.php:833
+msgid "Preloader background "
+msgstr ""
+
+#: admin/theme-panel/color.php:876
+msgid "Back to Top Icon"
+msgstr ""
+
+#: admin/theme-panel/color.php:902
+msgid "Back to Top Background"
+msgstr ""
+
+#: admin/theme-panel/color.php:944
+msgid "Footer Text"
+msgstr ""
+
+#: admin/theme-panel/color.php:971
+msgid "Footer Link Color"
+msgstr ""
+
+#: admin/theme-panel/color.php:997
+msgid "Footer Button/Submit"
+msgstr ""
+
+#: admin/theme-panel/color.php:1024
+msgid "Footer Background"
+msgstr ""
+
+#: admin/theme-panel/color.php:1051
+msgid "Footer Copyright Text"
+msgstr ""
+
+#: admin/theme-panel/color.php:1078
+msgid "Footer Copyright Link"
+msgstr ""
+
+#: admin/theme-panel/color.php:1104
+msgid "Footer Copyright Background"
+msgstr ""
+
+#: admin/theme-panel/footer.php:5
+msgid "Footer Global"
+msgstr ""
+
+#: admin/theme-panel/footer.php:19
+msgid "Footer Variations"
+msgstr ""
+
+#: admin/theme-panel/footer.php:23, admin/theme-panel/general.php:137, admin/theme-panel/header.php:330, admin/theme-panel/learndash.php:25, admin/theme-panel/learnpress.php:24, admin/theme-panel/tutor.php:23
+msgid "Style 1"
+msgstr ""
+
+#: admin/theme-panel/footer.php:24, admin/theme-panel/general.php:138, admin/theme-panel/header.php:331, admin/theme-panel/learndash.php:26, admin/theme-panel/learnpress.php:25, admin/theme-panel/tutor.php:24
+msgid "Style 2"
+msgstr ""
+
+#: admin/theme-panel/footer.php:31
+msgid "Footer Widget"
+msgstr ""
+
+#: admin/theme-panel/footer.php:45
+msgid "Footer Copyright"
+msgstr ""
+
+#: admin/theme-panel/footer.php:54
+msgid "Copyright"
+msgstr ""
+
+#: admin/theme-panel/footer.php:68
+msgid "Copyright Text"
+msgstr ""
+
+#: admin/theme-panel/footer.php:83
+msgid "Copyright Menu On Small Device"
+msgstr ""
+
+#: admin/theme-panel/footer.php:98
+msgid "Footer Widget Column"
+msgstr ""
+
+#: admin/theme-panel/footer.php:99
+msgid "Select your footer widget column"
+msgstr ""
+
+#: admin/theme-panel/footer.php:104
+msgid "12"
+msgstr ""
+
+#: admin/theme-panel/footer.php:108
+msgid "6-6"
+msgstr ""
+
+#: admin/theme-panel/footer.php:112
+msgid "4-4-4"
+msgstr ""
+
+#: admin/theme-panel/footer.php:116
+msgid "3-3-3-3"
+msgstr ""
+
+#: admin/theme-panel/footer.php:120
+msgid "3-6-3"
+msgstr ""
+
+#: admin/theme-panel/footer.php:124
+msgid "4-3-2-3"
+msgstr ""
+
+#: admin/theme-panel/general.php:12
+msgid "Secondary Logo (Optional)"
+msgstr ""
+
+#: admin/theme-panel/general.php:13
+msgid "Secondary logo only for transparent header."
+msgstr ""
+
+#: admin/theme-panel/general.php:30
+msgid "Logo Size"
+msgstr ""
+
+#: admin/theme-panel/general.php:50
+msgid "Mobile Logo (Optional)"
+msgstr ""
+
+#: admin/theme-panel/general.php:51
+msgid "Mobile logo only for small device."
+msgstr ""
+
+#: admin/theme-panel/general.php:68
+msgid "Mobile Logo Size"
+msgstr ""
+
+#: admin/theme-panel/general.php:90
+msgid "Mobile Logo Screen Width"
+msgstr ""
+
+#: admin/theme-panel/general.php:104, admin/theme-panel/general.php:118
+msgid "Preloader"
+msgstr ""
+
+#: admin/theme-panel/general.php:132
+msgid "Preloader Type"
+msgstr ""
+
+#: admin/theme-panel/general.php:136
+msgid "Logo Preloader"
+msgstr ""
+
+#: admin/theme-panel/general.php:151
+msgid "Preloader Image"
+msgstr ""
+
+#: admin/theme-panel/general.php:152
+msgid "It will be work only if you select preloader type \"Logo Preloader\""
+msgstr ""
+
+#: admin/theme-panel/general.php:161, admin/theme-panel/general.php:175
+msgid "Back to Top"
+msgstr ""
+
+#: admin/theme-panel/general.php:184, admin/theme-panel/general.php:199
+msgid "Breadcrumb"
+msgstr ""
+
+#: admin/theme-panel/general.php:214
+msgid "Shortcode Breadcrumb"
+msgstr ""
+
+#: admin/theme-panel/general.php:228
+msgid "404 Image"
+msgstr ""
+
+#: admin/theme-panel/general.php:244
+msgid "404 Title"
+msgstr ""
+
+#: admin/theme-panel/general.php:259
+msgid "404 Text"
+msgstr ""
+
+#: admin/theme-panel/general.php:274
+msgid "Go Home Text"
+msgstr ""
+
+#: admin/theme-panel/general.php:282, admin/theme-panel/general.php:297
+msgid "RTL"
+msgstr ""
+
+#: admin/theme-panel/general.php:311
+msgid "Logo Left Align"
+msgstr ""
+
+#: admin/theme-panel/general.php:325
+msgid "Menu Right Align"
+msgstr ""
+
+#: admin/theme-panel/general.php:340
+msgid "Cart Left Align"
+msgstr ""
+
+#: admin/theme-panel/header.php:4, functions.php:342
+msgid "Header Top"
+msgstr ""
+
+#: admin/theme-panel/header.php:12
+msgid "Main Header"
+msgstr ""
+
+#: admin/theme-panel/header.php:22
+msgid "Social Icons"
+msgstr ""
+
+#: admin/theme-panel/header.php:23
+msgid "Drag and drop the URLs to rearrange their order."
+msgstr ""
+
+#: admin/theme-panel/header.php:33
+msgid "Contact"
+msgstr ""
+
+#: admin/theme-panel/header.php:34
+msgid "Add your phone number to the site header bar."
+msgstr ""
+
+#: admin/theme-panel/header.php:44, admin/theme-panel/header.php:432, learnpress/search-form.php:25
+msgid "Search"
+msgstr ""
+
+#: admin/theme-panel/header.php:45
+msgid "Add a search icon to your primary navigation menu."
+msgstr ""
+
+#: admin/theme-panel/header.php:60, admin/theme-panel/social.php:75
+msgid "Enable"
+msgstr ""
+
+#: admin/theme-panel/header.php:75, admin/theme-panel/tribe_events.php:205, include/template-functions.php:267, tribe-events/single-event.php:270, tribe-events/single-event.php:567
+msgid "Email"
+msgstr ""
+
+#: admin/theme-panel/header.php:91, admin/theme-panel/tribe_events.php:191, tribe-events/single-event.php:257, tribe-events/single-event.php:554
+msgid "Phone"
+msgstr ""
+
+#: admin/theme-panel/header.php:107
+msgid "Top Message"
+msgstr ""
+
+#: admin/theme-panel/header.php:122
+msgid "Top Message Animation"
+msgstr ""
+
+#: admin/theme-panel/header.php:137
+msgid "Top Message Width"
+msgstr ""
+
+#: admin/theme-panel/header.php:138
+msgid "Top message area width"
+msgstr ""
+
+#: admin/theme-panel/header.php:158
+msgid "Top Widget Position"
+msgstr ""
+
+#: admin/theme-panel/header.php:162
+msgid "Before Social"
+msgstr ""
+
+#: admin/theme-panel/header.php:163
+msgid "After Social"
+msgstr ""
+
+#: admin/theme-panel/header.php:177
+msgid "Login/Register"
+msgstr ""
+
+#: admin/theme-panel/header.php:192
+msgid "Custom Login Page URL"
+msgstr ""
+
+#: admin/theme-panel/header.php:207
+msgid "Login Button Text"
+msgstr ""
+
+#: admin/theme-panel/header.php:222
+msgid "Custom Register URL"
+msgstr ""
+
+#: admin/theme-panel/header.php:237
+msgid "Register Button Text"
+msgstr ""
+
+#: admin/theme-panel/header.php:252
+msgid "Custom Logout Page URL"
+msgstr ""
+
+#: admin/theme-panel/header.php:267
+msgid "Logout Button Text"
+msgstr ""
+
+#: admin/theme-panel/header.php:282, template-parts/header/header-top.php:109, template-parts/header/header-top.php:111
+msgid "Profile"
+msgstr ""
+
+#: admin/theme-panel/header.php:296
+msgid "Custom Profile Page URL"
+msgstr ""
+
+#: admin/theme-panel/header.php:311
+msgid "Profile Button Text"
+msgstr ""
+
+#: admin/theme-panel/header.php:326
+msgid "Header Variations"
+msgstr ""
+
+#: admin/theme-panel/header.php:332
+msgid "Mega Menu"
+msgstr ""
+
+#: admin/theme-panel/header.php:347
+msgid "Sticky Header"
+msgstr ""
+
+#: admin/theme-panel/header.php:362
+msgid "Content Space"
+msgstr ""
+
+#: admin/theme-panel/header.php:363
+msgid "Top padding for menu area"
+msgstr ""
+
+#: admin/theme-panel/header.php:384
+msgid "Submenu Width"
+msgstr ""
+
+#: admin/theme-panel/header.php:404
+msgid "Sub Menu Right Align"
+msgstr ""
+
+#: admin/theme-panel/header.php:418
+msgid "Home Menu Active Color"
+msgstr ""
+
+#: admin/theme-panel/header.php:447
+msgid "Shop Cart"
+msgstr ""
+
+#: admin/theme-panel/header.php:483
+msgid "Header Title Size"
+msgstr ""
+
+#: admin/theme-panel/header.php:484
+msgid "Page title font size"
+msgstr ""
+
+#: admin/theme-panel/header.php:504
+msgid "Header Title Tag"
+msgstr ""
+
+#: admin/theme-panel/header.php:509
+msgid "H1"
+msgstr ""
+
+#: admin/theme-panel/header.php:510
+msgid "H2"
+msgstr ""
+
+#: admin/theme-panel/header.php:511
+msgid "H3"
+msgstr ""
+
+#: admin/theme-panel/header.php:512
+msgid "H4"
+msgstr ""
+
+#: admin/theme-panel/header.php:513
+msgid "H5"
+msgstr ""
+
+#: admin/theme-panel/header.php:514
+msgid "H6"
+msgstr ""
+
+#: admin/theme-panel/header.php:529
+msgid "Header Title Size Small Device"
+msgstr ""
+
+#: admin/theme-panel/header.php:530
+msgid "Page title font size for small device"
+msgstr ""
+
+#: admin/theme-panel/header.php:551
+msgid "Page Title Font Size Small Screen Width"
+msgstr ""
+
+#: admin/theme-panel/header.php:573
+msgid "Page Header Height"
+msgstr ""
+
+#: admin/theme-panel/header.php:594
+msgid "Page Header Hight Mobile Screen"
+msgstr ""
+
+#: admin/theme-panel/header.php:595
+msgid "Page Header Hight Mobile Screen only for small device."
+msgstr ""
+
+#: admin/theme-panel/header.php:616
+msgid "Header Hight Small Screen Width"
+msgstr ""
+
+#: admin/theme-panel/learndash.php:5, admin/theme-panel/learnpress.php:5, admin/theme-panel/tribe_events.php:6, admin/theme-panel/zoom.php:5
+msgid "Archive Page"
+msgstr ""
+
+#: admin/theme-panel/learndash.php:21, admin/theme-panel/learnpress.php:20
+msgid "Courses Style"
+msgstr ""
+
+#: admin/theme-panel/learndash.php:27, admin/theme-panel/learnpress.php:26
+msgid "Style 3"
+msgstr ""
+
+#: admin/theme-panel/learndash.php:28, admin/theme-panel/learnpress.php:27
+msgid "Style 4"
+msgstr ""
+
+#: admin/theme-panel/learndash.php:29, admin/theme-panel/learnpress.php:28
+msgid "Style 5"
+msgstr ""
+
+#: admin/theme-panel/learndash.php:44, admin/theme-panel/learnpress.php:43
+msgid "Courses Column"
+msgstr ""
+
+#: admin/theme-panel/learndash.php:48, admin/theme-panel/learnpress.php:47
+msgid "Column 2"
+msgstr ""
+
+#: admin/theme-panel/learndash.php:49, admin/theme-panel/learnpress.php:48
+msgid "Column 3"
+msgstr ""
+
+#: admin/theme-panel/learndash.php:50, admin/theme-panel/learnpress.php:49
+msgid "Column 4"
+msgstr ""
+
+#: admin/theme-panel/learndash.php:65, admin/theme-panel/learnpress.php:63, admin/theme-panel/tutor.php:53
+msgid "Hide Archive: Text"
+msgstr ""
+
+#: admin/theme-panel/learndash.php:79, admin/theme-panel/learnpress.php:91, admin/theme-panel/tribe_events.php:20
+msgid "Price"
+msgstr ""
+
+#: admin/theme-panel/learndash.php:94, include/template-functions.php:218, template-parts/post/single.php:71
+msgid "Views"
+msgstr ""
+
+#: admin/theme-panel/learndash.php:109, admin/theme-panel/learnpress.php:176
+msgid "Comments"
+msgstr ""
+
+#: admin/theme-panel/learndash.php:123
+msgid "Progress Bar"
+msgstr ""
+
+#: admin/theme-panel/learndash.php:138
+msgid "See More Button"
+msgstr ""
+
+#: admin/theme-panel/learndash.php:153
+msgid "See More Button - Custom Text"
+msgstr ""
+
+#: admin/theme-panel/learndash.php:169
+msgid "Free - Custom Text"
+msgstr ""
+
+#: admin/theme-panel/learndash.php:185
+msgid "Enrolled - Custom Text"
+msgstr ""
+
+#: admin/theme-panel/learndash.php:201
+msgid "Completed - Custom Text"
+msgstr ""
+
+#: admin/theme-panel/learndash.php:239
+msgid "Related Course"
+msgstr ""
+
+#: admin/theme-panel/learndash.php:240
+msgid "Show hide your sidebar you may like course section"
+msgstr ""
+
+#: admin/theme-panel/learndash.php:255
+msgid "Related Course Heading"
+msgstr ""
+
+#: admin/theme-panel/learndash.php:270
+msgid "Related Course Views"
+msgstr ""
+
+#: admin/theme-panel/learndash.php:284
+msgid "Related Course Price"
+msgstr ""
+
+#: admin/theme-panel/learndash.php:292, admin/theme-panel/learnpress.php:580, admin/theme-panel/tutor.php:375
+msgid "Utilities"
+msgstr ""
+
+#: admin/theme-panel/learndash.php:305
+msgid "Custom Placeholder Image"
+msgstr ""
+
+#: admin/theme-panel/learnpress.php:77
+msgid "Top Bar"
+msgstr ""
+
+#: admin/theme-panel/learnpress.php:105
+msgid "Show Price .00"
+msgstr ""
+
+#: admin/theme-panel/learnpress.php:119, admin/theme-panel/learnpress.php:247, admin/theme-panel/woocommerce.php:43, admin/theme-panel/woocommerce.php:58
+msgid "Review"
+msgstr ""
+
+#: admin/theme-panel/learnpress.php:133
+msgid "Instructor Image"
+msgstr ""
+
+#: admin/theme-panel/learnpress.php:147
+msgid "Instructor Name"
+msgstr ""
+
+#: admin/theme-panel/learnpress.php:161, include/learnpress.php:71
+msgid "Enroll"
+msgstr ""
+
+#: admin/theme-panel/learnpress.php:191
+msgid "Image Height"
+msgstr ""
+
+#: admin/theme-panel/learnpress.php:217
+msgid "Instructor"
+msgstr ""
+
+#: admin/theme-panel/learnpress.php:263
+msgid "Price - Custom Text"
+msgstr ""
+
+#: admin/theme-panel/learnpress.php:279
+msgid "Buy Now - Custom Button Text"
+msgstr ""
+
+#: admin/theme-panel/learnpress.php:295
+msgid "Enroll - Custom Button Text"
+msgstr ""
+
+#: admin/theme-panel/learnpress.php:304, include/learnpress.php:127
+msgid "Course Features"
+msgstr ""
+
+#: admin/theme-panel/learnpress.php:319
+msgid "Custom Course Features Title"
+msgstr ""
+
+#: admin/theme-panel/learnpress.php:334
+msgid "Custom Features List Position"
+msgstr ""
+
+#: admin/theme-panel/learnpress.php:338
+msgid "Top"
+msgstr ""
+
+#: admin/theme-panel/learnpress.php:339
+msgid "Buttom"
+msgstr ""
+
+#: admin/theme-panel/learnpress.php:353
+msgid "Quizzes"
+msgstr ""
+
+#: admin/theme-panel/learnpress.php:368, admin/theme-panel/learnpress.php:397, admin/theme-panel/learnpress.php:426, admin/theme-panel/learnpress.php:455, admin/theme-panel/learnpress.php:484, admin/theme-panel/learnpress.php:513, admin/theme-panel/learnpress.php:542, admin/theme-panel/learnpress.php:571
+msgid "Custom Level"
+msgstr ""
+
+#: admin/theme-panel/learnpress.php:383
+msgid "Duration"
+msgstr ""
+
+#: admin/theme-panel/learnpress.php:412
+msgid "Max Students"
+msgstr ""
+
+#: admin/theme-panel/learnpress.php:441, template-parts/page/learndash-page.php:85, template-parts/post/learndash-content.php:96, template-parts/post/learndash-content.php:395, template-parts/post/learndash-content.php:419
+msgid "Enrolled"
+msgstr ""
+
+#: admin/theme-panel/learnpress.php:470
+msgid "Re-take"
+msgstr ""
+
+#: admin/theme-panel/learnpress.php:499
+msgid "Skill Level"
+msgstr ""
+
+#: admin/theme-panel/learnpress.php:557
+msgid "Assessments"
+msgstr ""
+
+#: admin/theme-panel/learnpress.php:595
+msgid "Hide Duplicate Term in Breadcrumb"
+msgstr ""
+
+#: admin/theme-panel/social.php:5
+msgid "Social Share"
+msgstr ""
+
+#: admin/theme-panel/social.php:21
+msgid "Open in new browser tab"
+msgstr ""
+
+#: admin/theme-panel/social.php:46
+msgid "Alignment"
+msgstr ""
+
+#: admin/theme-panel/social.php:47
+msgid "Choose the alignment for your social icons"
+msgstr ""
+
+#: admin/theme-panel/social.php:50, admin/theme-panel/tutor.php:198
+msgid "Left"
+msgstr ""
+
+#: admin/theme-panel/social.php:51, admin/theme-panel/tutor.php:199
+msgid "Right"
+msgstr ""
+
+#: admin/theme-panel/social.php:89
+msgid "Custom Follow Us Text"
+msgstr ""
+
+#: admin/theme-panel/social.php:104
+msgid "Social URLs"
+msgstr ""
+
+#: admin/theme-panel/social.php:105
+msgid "Add your social media links."
+msgstr ""
+
+#: admin/theme-panel/social.php:108
+msgid "Add Icon"
+msgstr ""
+
+#: admin/theme-panel/tribe_events.php:35
+msgid "Hide Archive: Word"
+msgstr ""
+
+#: admin/theme-panel/tribe_events.php:50
+msgid "Meta"
+msgstr ""
+
+#: admin/theme-panel/tribe_events.php:73
+msgid "Page Layout"
+msgstr ""
+
+#: admin/theme-panel/tribe_events.php:77
+msgid "Default"
+msgstr ""
+
+#: admin/theme-panel/tribe_events.php:78
+msgid "Layout 1"
+msgstr ""
+
+#: admin/theme-panel/tribe_events.php:79
+msgid "Layout 2"
+msgstr ""
+
+#: admin/theme-panel/tribe_events.php:93
+msgid "Countdown"
+msgstr ""
+
+#: admin/theme-panel/tribe_events.php:107
+msgid "Maps"
+msgstr ""
+
+#: admin/theme-panel/tribe_events.php:121
+msgid "Event Cost"
+msgstr ""
+
+#: admin/theme-panel/tribe_events.php:135, tribe-events/single-event.php:205, tribe-events/single-event.php:502
+msgid "Event Date"
+msgstr ""
+
+#: admin/theme-panel/tribe_events.php:149, tribe-events/single-event.php:218, tribe-events/single-event.php:515
+msgid "Start Time"
+msgstr ""
+
+#: admin/theme-panel/tribe_events.php:163
+msgid "End Time"
+msgstr ""
+
+#: admin/theme-panel/tribe_events.php:177, tribe-events/single-event.php:244, tribe-events/single-event.php:541
+msgid "Website"
+msgstr ""
+
+#: admin/theme-panel/tribe_events.php:219, tribe-events/single-event.php:283, tribe-events/single-event.php:580
+msgid "Organizer"
+msgstr ""
+
+#: admin/theme-panel/tribe_events.php:234, tribe-events/single-event.php:303, tribe-events/single-event.php:600
+msgid "Location"
+msgstr ""
+
+#: admin/theme-panel/tribe_events.php:248
+msgid "Before Content"
+msgstr ""
+
+#: admin/theme-panel/tribe_events.php:262
+msgid "After Content"
+msgstr ""
+
+#: admin/theme-panel/tutor.php:5
+msgid "Course Grid"
+msgstr ""
+
+#: admin/theme-panel/tutor.php:19
+msgid "Course Styles"
+msgstr ""
+
+#: admin/theme-panel/tutor.php:38
+msgid "Course Filter Bar"
+msgstr ""
+
+#: admin/theme-panel/tutor.php:68
+msgid "Fix Image Height"
+msgstr ""
+
+#: admin/theme-panel/tutor.php:80
+msgid "Course Filter"
+msgstr ""
+
+#: admin/theme-panel/tutor.php:95
+msgid "Course Filter Per Page"
+msgstr ""
+
+#: admin/theme-panel/tutor.php:116
+msgid "Course Filter Column"
+msgstr ""
+
+#: admin/theme-panel/tutor.php:135
+msgid "Course Search"
+msgstr ""
+
+#: admin/theme-panel/tutor.php:150
+msgid "Filter Results"
+msgstr ""
+
+#: admin/theme-panel/tutor.php:165
+msgid "Filter Select"
+msgstr ""
+
+#: admin/theme-panel/tutor.php:180
+msgid "Sidebar Filter"
+msgstr ""
+
+#: admin/theme-panel/tutor.php:194
+msgid "Sidebar Position"
+msgstr ""
+
+#: admin/theme-panel/tutor.php:213
+msgid "Courses Count"
+msgstr ""
+
+#: admin/theme-panel/tutor.php:227, tutor-advanced-course-filter.php:222
+msgid "Level"
+msgstr ""
+
+#: admin/theme-panel/tutor.php:242
+msgid "Level - Custom Text"
+msgstr ""
+
+#: admin/theme-panel/tutor.php:272
+msgid "Category - Custom Text"
+msgstr ""
+
+#: admin/theme-panel/tutor.php:287
+msgid "Topic"
+msgstr ""
+
+#: admin/theme-panel/tutor.php:301
+msgid "Topic - Custom Text"
+msgstr ""
+
+#: admin/theme-panel/tutor.php:317
+msgid "Pagination"
+msgstr ""
+
+#: admin/theme-panel/tutor.php:341
+msgid "Double Course Title"
+msgstr ""
+
+#: admin/theme-panel/tutor.php:348
+msgid "Login Page"
+msgstr ""
+
+#: admin/theme-panel/tutor.php:389
+msgid "Use Tutor Settings Color"
+msgstr ""
+
+#: admin/theme-panel/woocommerce.php:72
+msgid "Publicly/Login User only"
+msgstr ""
+
+#: admin/theme-panel/zoom.php:20
+msgid "Hosted"
+msgstr ""
+
+#: admin/theme-panel/zoom.php:34
+msgid "Start Date"
+msgstr ""
+
+#: admin/theme-panel/zoom.php:49, video-conferencing-zoom/archive-meetings.php:63
+msgid "Timezone"
+msgstr ""
+
+#: admin/theme-panel/zoom.php:64
+msgid "Excerpt"
+msgstr ""
+
+#: comments.php:32
+msgid "1 Comment %s"
+msgstr ""
+
+#: comments.php:36
+msgid "%1$s Comment %2$s"
+msgid_plural "%1$s Comments %2$s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:56
+msgid "Reply"
+msgstr ""
+
+#: comments.php:62
+msgid "Previous"
+msgstr ""
+
+#: comments.php:63
+msgid "Next"
+msgstr ""
+
+#: comments.php:71
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:57, functions.php:44
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:43
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:119
+msgid "Default Header Image"
+msgstr ""
+
+#: functions.php:332
+msgid "Blog Sidebar"
+msgstr ""
+
+#: functions.php:334
+msgid "Add widgets here to appear in your sidebar on blog posts and archive pages."
+msgstr ""
+
+#: functions.php:344
+msgid "Add widgets here to appear in your header top area."
+msgstr ""
+
+#: functions.php:352
+msgid "Footer 1"
+msgstr ""
+
+#: functions.php:354, functions.php:364, functions.php:373, functions.php:383
+msgid "Add widgets here to appear in your footer."
+msgstr ""
+
+#: functions.php:362
+msgid "Footer 2"
+msgstr ""
+
+#: functions.php:371
+msgid "Footer 3"
+msgstr ""
+
+#: functions.php:381
+msgid "Footer 4"
+msgstr ""
+
+#: functions.php:391
+msgid "Copyright 1"
+msgstr ""
+
+#: functions.php:393
+msgid "Add widgets here to appear in your footer copyright."
+msgstr ""
+
+#: functions.php:401
+msgid "Copyright 2"
+msgstr ""
+
+#: functions.php:403
+msgid "Add widgets here to appear in your footer copyright right side."
+msgstr ""
+
+#: functions.php:414
+msgid "Tutor LMS Login From Before"
+msgstr ""
+
+#: functions.php:416
+msgid "Add widgets here to appear in your sidebar on Tutor LMS login pages from before section."
+msgstr ""
+
+#: functions.php:424
+msgid "Tutor LMS Login From After"
+msgstr ""
+
+#: functions.php:426
+msgid "Add widgets here to appear in your sidebar on Tutor LMS login pages from after section."
+msgstr ""
+
+#: functions.php:435
+msgid "Tutor LMS Popup Login From Before"
+msgstr ""
+
+#: functions.php:437
+msgid "Add widgets here to appear in your sidebar on Tutor LMS login Popup from before section."
+msgstr ""
+
+#: functions.php:446
+msgid "Tutor LMS Popup Login From After"
+msgstr ""
+
+#: functions.php:448
+msgid "Add widgets here to appear in your sidebar on Tutor LMS login Popup from after section."
+msgstr ""
+
+#: functions.php:457
+msgid "Tutor LMS Student Register From Before"
+msgstr ""
+
+#: functions.php:459
+msgid "Add widgets here to appear in your sidebar on Tutor LMS register pages from before section."
+msgstr ""
+
+#: functions.php:468
+msgid "Tutor LMS Student Register From After"
+msgstr ""
+
+#: functions.php:470, functions.php:492
+msgid "Add widgets here to appear in your sidebar on Tutor LMS register pages from after section."
+msgstr ""
+
+#: functions.php:479
+msgid "Tutor LMS Instructor Register From Before"
+msgstr ""
+
+#: functions.php:481
+msgid "Add widgets here to appear in your sidebar on Tutor LMS instructor register pages from before section."
+msgstr ""
+
+#: functions.php:490
+msgid "Tutor LMS instructor Register From After"
+msgstr ""
+
+#: functions.php:502
+msgid "LearnPress Archive Page"
+msgstr ""
+
+#: functions.php:504
+msgid "Add widgets here to appear in your sidebar on LearnPress course archive pages."
+msgstr ""
+
+#: functions.php:514
+msgid "LearnDash Single Right"
+msgstr ""
+
+#: functions.php:516
+msgid "Add widgets here to appear in your sidebar on LearnDash course details pages."
+msgstr ""
+
+#: functions.php:531
+msgid "The Events Calendar Single"
+msgstr ""
+
+#: functions.php:533
+msgid "Add widgets here to appear in your sidebar on The Events Calendar details pages."
+msgstr ""
+
+#: functions.php:548
+msgid "WooCommerce Shop Page"
+msgstr ""
+
+#: functions.php:550
+msgid "Add widgets here to appear in your sidebar on shop page top pages."
+msgstr ""
+
+#: functions.php:557
+msgid "WooCommerce Single Page"
+msgstr ""
+
+#: functions.php:559
+msgid "Add widgets here to appear in your sidebar on woocommerce shop product details page top pages."
+msgstr ""
+
+#: functions.php:684
+msgid "Expand child menu"
+msgstr ""
+
+#: functions.php:685
+msgid "Collapse child menu"
+msgstr ""
+
+#: include/back-compat.php:33, include/back-compat.php:42, include/back-compat.php:54
+msgid "Edubin requires at least WordPress version 4.7. You are running version %s. Please upgrade and try again."
+msgstr ""
+
+#: include/icon-functions.php:24
+msgid "Please define default parameters in the form of an array."
+msgstr ""
+
+#: include/icon-functions.php:29
+msgid "Please define an SVG icon filename."
+msgstr ""
+
+#: include/learndash.php:30, include/learnpress.php:305
+msgid "You May Like"
+msgstr ""
+
+#: include/learndash.php:75, template-parts/page/learndash-page.php:33, template-parts/post/learndash-content.php:43, template-parts/post/learndash-content.php:297
+msgid "See more"
+msgstr ""
+
+#: include/learndash.php:95, include/learndash.php:108, include/learndash.php:126, include/learnpress.php:331, template-parts/page/learndash-page.php:52, template-parts/page/learndash-page.php:64, template-parts/post/learndash-content.php:63, template-parts/post/learndash-content.php:76, template-parts/post/learndash-content.php:338, template-parts/post/learndash-content.php:377
+msgid "Free"
+msgstr ""
+
+#: include/learndash.php:134, template-parts/page/learndash-page.php:94, template-parts/post/learndash-content.php:106, template-parts/post/learndash-content.php:406, template-parts/post/learndash-content.php:431
+msgid "Completed"
+msgstr ""
+
+#: include/learnpress.php:49
+msgid "$lp_course_buy_now_btn"
+msgstr ""
+
+#: include/learnpress.php:51
+msgid "Buy Now"
+msgstr ""
+
+#: include/learnpress.php:69
+msgid "$lp_course_enroll_btn"
+msgstr ""
+
+#: include/learnpress.php:166
+msgid "Quizzes :"
+msgstr ""
+
+#: include/learnpress.php:177
+msgid "Duration :"
+msgstr ""
+
+#: include/learnpress.php:189
+msgid "Max Students :"
+msgstr ""
+
+#: include/learnpress.php:201
+msgid "Enrolled :"
+msgstr ""
+
+#: include/learnpress.php:214
+msgid "Re-take Course :"
+msgstr ""
+
+#: include/learnpress.php:228
+msgid "Skill Level :"
+msgstr ""
+
+#: include/learnpress.php:241
+msgid "Language :"
+msgstr ""
+
+#: include/learnpress.php:252
+msgid "Assessments :"
+msgstr ""
+
+#: include/learnpress.php:254
+msgid "Yes"
+msgstr ""
+
+#: include/learnpress.php:254
+msgid "Self"
+msgstr ""
+
+#: include/learnpress.php:411
+msgid "LearnPress Profile"
+msgstr ""
+
+#: include/learnpress.php:417
+msgid "Major"
+msgstr ""
+
+#: include/learnpress.php:427
+msgid "Facebook Account"
+msgstr ""
+
+#: include/learnpress.php:437
+msgid "Twitter Account"
+msgstr ""
+
+#: include/learnpress.php:447
+msgid "Instagram Account"
+msgstr ""
+
+#: include/learnpress.php:457
+msgid "LinkedIn Plus Account"
+msgstr ""
+
+#: include/learnpress.php:467
+msgid "Youtube Account"
+msgstr ""
+
+#: include/learnpress.php:715
+msgid "Leave A Review"
+msgstr ""
+
+#: include/learnpress.php:717
+msgid "Please provide as much detail as you can to justify your rating and to help others."
+msgstr ""
+
+#: include/learnpress.php:721
+msgid "Title"
+msgstr ""
+
+#: include/learnpress.php:727, include/learnpress.php:788
+msgid "Rating"
+msgstr ""
+
+#: include/learnpress.php:755
+msgid "Submit Review"
+msgstr ""
+
+#: include/learnpress.php:792
+msgid "Average Rating: "
+msgstr ""
+
+#: include/learnpress.php:793
+msgid " %1.2f "
+msgstr ""
+
+#: include/learnpress.php:805
+msgid " Star"
+msgstr ""
+
+#: include/template-functions.php:197, template-parts/post/single.php:50
+msgid "No Comments"
+msgstr ""
+
+#: include/template-functions.php:199, template-parts/post/single.php:52
+msgid " Comments"
+msgstr ""
+
+#: include/template-functions.php:201, template-parts/post/single.php:54
+msgid "1 Comment"
+msgstr ""
+
+#: include/template-functions.php:265
+msgid "Name"
+msgstr ""
+
+#: include/template-functions.php:284
+msgid "Post Comment"
+msgstr ""
+
+#: include/template-functions.php:287
+msgid "Leave a Comment "
+msgstr ""
+
+#: include/template-functions.php:308
+msgid "Two Column Menu"
+msgstr ""
+
+#: include/template-tags.php:83
+msgid "<span class=\"screen-reader-text\">Posted on</span> %s"
+msgstr ""
+
+#: include/template-tags.php:97
+msgid ", "
+msgstr ""
+
+#: include/template-tags.php:114
+msgid "Post Tags "
+msgstr ""
+
+#: include/template-tags.php:114
+msgid "Post Tags"
+msgstr ""
+
+#: include/template-tags.php:139
+msgid "Edit<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: include/template-tags.php:173
+msgid "Front Page Section %1$s Placeholder"
+msgstr ""
+
+#: include/woocommerce.php:83
+msgid "Add to Cart"
+msgstr ""
+
+#: learnpress/content-archive-course.php:64
+msgid "There are no available posts!"
+msgstr ""
+
+#: learnpress/content-archive-course.php:67
+msgid "Showing only one result"
+msgstr ""
+
+#: learnpress/content-archive-course.php:77
+msgid "Showing last post of %s results"
+msgstr ""
+
+#: learnpress/content-archive-course.php:82
+msgid "Showing %s-%s of %s results"
+msgstr ""
+
+#: learnpress/content-archive-course.php:107
+msgid "Search our courses"
+msgstr ""
+
+#: learnpress/content-archive-course.php:180
+msgid "No course found."
+msgstr ""
+
+#: learnpress/content-course-grid.php:92, learnpress/content-course-grid.php:206, learnpress/content-course-list.php:88, learnpress/content-course-owned.php:85, learnpress/content-course-owned.php:191
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: learnpress/content-course-grid.php:92, learnpress/content-course-grid.php:206, learnpress/content-course-list.php:88, learnpress/content-course-owned.php:85, learnpress/content-course-owned.php:191
+msgid "out of 5"
+msgstr ""
+
+#: learnpress/content-course-grid.php:96, learnpress/content-course-list.php:92, learnpress/content-course-owned.php:89
+msgid "(%s Reviews)"
+msgid_plural "(%s Review)"
+msgstr[0] ""
+msgstr[1] ""
+
+#: learnpress/content-single-course.php:80
+msgid "Price : "
+msgstr ""
+
+#: learnpress/profile/tabs/courses/owned.php:22
+msgid "My Courses"
+msgstr ""
+
+#: learnpress/profile/tabs/courses/owned.php:34
+msgid "No courses!"
+msgstr ""
+
+#: learnpress/search-form.php:22
+msgid "Search course..."
+msgstr ""
+
+#: search.php:42
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: searchform.php:16
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:17
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr ""
+
+#: searchform.php:21
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: template-parts/header/breadcrumb.php:245
+msgid "Browse:"
+msgstr ""
+
+#: template-parts/header/breadcrumb.php:246
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr ""
+
+#: template-parts/header/breadcrumb.php:247
+msgid "Home"
+msgstr ""
+
+#: template-parts/header/breadcrumb.php:248
+msgid "404 Not Found"
+msgstr ""
+
+#: template-parts/header/breadcrumb.php:249
+msgid "Archives"
+msgstr ""
+
+#: template-parts/header/breadcrumb.php:251
+msgid "Search results for: %s"
+msgstr ""
+
+#: template-parts/header/breadcrumb.php:253
+msgid "Page %s"
+msgstr ""
+
+#: template-parts/header/breadcrumb.php:255
+msgid "Comment Page %s"
+msgstr ""
+
+#: template-parts/header/breadcrumb.php:257
+msgid "Minute %s"
+msgstr ""
+
+#: template-parts/header/breadcrumb.php:259
+msgid "Week %s"
+msgstr ""
+
+#: template-parts/header/breadcrumb.php:719
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: template-parts/header/breadcrumb.php:736
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: template-parts/header/breadcrumb.php:753
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#: template-parts/header/breadcrumb.php:769, template-parts/header/breadcrumb.php:798, template-parts/header/breadcrumb.php:825, template-parts/header/breadcrumb.php:852, template-parts/header/breadcrumb.php:1192
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: template-parts/header/breadcrumb.php:770, template-parts/header/breadcrumb.php:826, template-parts/header/breadcrumb.php:1196
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: template-parts/header/breadcrumb.php:771, template-parts/header/breadcrumb.php:1200
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: template-parts/header/breadcrumb.php:799
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#: template-parts/header/header-top.php:84
+msgid "Follow Us :"
+msgstr ""
+
+#: template-parts/header/header-top.php:130, template-parts/header/header-top.php:132
+msgid "Logout"
+msgstr ""
+
+#: template-parts/header/header-top.php:141, template-parts/header/header-top.php:143
+msgid "Login"
+msgstr ""
+
+#: template-parts/header/header-top.php:147, template-parts/header/header-top.php:149, tutor/dashboard/registration.php:106
+msgid "Register"
+msgstr ""
+
+#: template-parts/header/header-v1.php:74, template-parts/header/header-v2.php:72
+msgid "Search Here.."
+msgstr ""
+
+#: template-parts/header/page-header.php:21
+msgid "Events Calendar"
+msgstr ""
+
+#: template-parts/header/page-header.php:33
+msgid "Search Results for: %s"
+msgstr ""
+
+#: template-parts/header/page-header.php:37
+msgid "Page Not Found: 404"
+msgstr ""
+
+#: template-parts/page/content-page.php:22, template-parts/page/learndash-page.php:120, template-parts/post/single.php:94
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/page/learndash-page.php:115, template-parts/post/single.php:89
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: template-parts/post/content-none.php:15
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/post/content-none.php:19
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: template-parts/post/content.php:44, template-parts/post/content.php:77, template-parts/post/content.php:93, template-parts/post/content.php:111
+msgid "Read More"
+msgstr ""
+
+#: tribe-events/single-event.php:114, tribe-events/single-event.php:447
+msgid "Days"
+msgstr ""
+
+#: tribe-events/single-event.php:118, tribe-events/single-event.php:451
+msgid "Hours"
+msgstr ""
+
+#: tribe-events/single-event.php:122, tribe-events/single-event.php:455
+msgid "Minutes"
+msgstr ""
+
+#: tribe-events/single-event.php:126, tribe-events/single-event.php:459
+msgid "Seconds"
+msgstr ""
+
+#: tribe-events/single-event.php:192, tribe-events/single-event.php:489
+msgid "Cost"
+msgstr ""
+
+#: tribe-events/single-event.php:231, tribe-events/single-event.php:528
+msgid "Finish Time"
+msgstr ""
+
+#: tribe-events/single-event.php:656
+msgctxt "%s Events plural label"
+msgid "All %s"
+msgstr ""
+
+#: tribe-events/single-event.php:674, tribe-events/single-event.php:708
+msgid "%s Navigation"
+msgstr ""
+
+#: tutor-advanced-course-filter.php:180
+msgid "Find your course"
+msgstr ""
+
+#: tutor-advanced-course-filter.php:195, tutor/global/course-archive-filter-bar.php:17
+msgid "%s Courses"
+msgstr ""
+
+#: tutor-advanced-course-filter.php:203, tutor/global/course-archive-filter-bar.php:24
+msgid "Release Date (newest first)"
+msgstr ""
+
+#: tutor-advanced-course-filter.php:204, tutor/global/course-archive-filter-bar.php:26
+msgid "Release Date (oldest first)"
+msgstr ""
+
+#: tutor-advanced-course-filter.php:205, tutor/global/course-archive-filter-bar.php:27
+msgid "Course Title (a-z)"
+msgstr ""
+
+#: tutor-advanced-course-filter.php:206, tutor/global/course-archive-filter-bar.php:28
+msgid "Course Title (z-a)"
+msgstr ""
+
+#: tutor-advanced-course-filter.php:319
+msgid "Topics"
+msgstr ""
+
+#: tutor-advanced-course-filter.php:401
+msgid "Nothing found!"
+msgstr ""
+
+#: tutor-advanced-course-filter.php:402
+msgid "Sorry, but nothing matched your search terms. Please try again with different keywords."
+msgstr ""
+
+#: tutor/dashboard/instructor/registration.php:38, tutor/dashboard/instructor/registration.php:41, tutor/dashboard/registration.php:38, tutor/dashboard/registration.php:41
+msgid "First Name"
+msgstr ""
+
+#: tutor/dashboard/instructor/registration.php:48, tutor/dashboard/instructor/registration.php:51, tutor/dashboard/registration.php:48, tutor/dashboard/registration.php:51
+msgid "Last Name"
+msgstr ""
+
+#: tutor/dashboard/instructor/registration.php:63, tutor/dashboard/instructor/registration.php:66, tutor/dashboard/registration.php:61, tutor/dashboard/registration.php:64
+msgid "User Name"
+msgstr ""
+
+#: tutor/dashboard/instructor/registration.php:73, tutor/dashboard/instructor/registration.php:76, tutor/dashboard/registration.php:71, tutor/dashboard/registration.php:74
+msgid "E-Mail"
+msgstr ""
+
+#: tutor/dashboard/instructor/registration.php:86, tutor/dashboard/instructor/registration.php:89, tutor/dashboard/registration.php:84, tutor/dashboard/registration.php:87, tutor/global/login.php:41
+msgid "Password"
+msgstr ""
+
+#: tutor/dashboard/instructor/registration.php:96, tutor/dashboard/registration.php:94
+msgid "Password confirmation"
+msgstr ""
+
+#: tutor/dashboard/instructor/registration.php:99, tutor/dashboard/registration.php:97
+msgid "Password Confirmation"
+msgstr ""
+
+#: tutor/dashboard/instructor/registration.php:107
+msgid "Register as instructor"
+msgstr ""
+
+#: tutor/global/login.php:40
+msgid "Username or Email Address"
+msgstr ""
+
+#: tutor/global/login.php:42
+msgid "Remember Me"
+msgstr ""
+
+#: tutor/global/login.php:43
+msgid "Log In"
+msgstr ""
+
+#: tutor/global/login.php:44
+msgid "Create a new account"
+msgstr ""
+
+#: tutor/global/login.php:54
+msgid "Forgot Password?"
+msgstr ""
+
+#: tutor/login.php:27
+msgid "Please Sign-In to view this section"
+msgstr ""
+
+#: tutor/single-quiz.php:34
+msgid "Go to Course Home"
+msgstr ""
+
+#: tutor/single/course/instructors.php:21
+msgid "About the instructors"
+msgstr ""
+
+#: tutor/single/course/instructors.php:63
+msgid "ratings"
+msgstr ""
+
+#: tutor/single/course/instructors.php:70
+msgid "Courses"
+msgstr ""
+
+#: tutor/single/course/instructors.php:82
+msgid "students"
+msgstr ""
+
+#: video-conferencing-zoom/archive-meetings.php:52
+msgid "Hosted By:"
+msgstr ""
+
+#: video-conferencing-zoom/archive-meetings.php:57
+msgid "Start"
+msgstr ""
+
+#: video-conferencing-zoom/archive-meetings.php:84
+msgid "No Meetings found."
+msgstr ""

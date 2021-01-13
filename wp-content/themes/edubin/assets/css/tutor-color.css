@@ -1,0 +1,139 @@
+.tutor-price-preview-box .price {
+    color: #ffc600;
+}
+.tutor-custom-list-style li:before {
+    color: #ffc600;
+}
+.tutor-wrap {
+    color: #505050;
+}
+.tutor-segment-title, .tutor-single-course-segment .tutor-segment-title {
+    color: #07294d;
+}
+.tutor-course-header-h1 {
+    color: #07294d;
+}
+.tutor-single-course-meta ul li.tutor-social-share button {
+    border: 1px solid #eee;
+    color: #07294d;
+}
+.tutor-single-course-meta ul li.tutor-social-share button:hover {
+    color: #ffc600;
+}
+.tutor-single-course-meta.tutor-lead-meta ul li a {
+    color: #07294d;
+}
+.tutor-single-course-meta.tutor-lead-meta ul li a:hover {
+    color: #ffc600;
+}
+.tutor-single-course-meta.tutor-lead-meta ul li span {
+    color: #aaa;
+}
+.single_add_to_cart_button, a.tutor-button, .tutor-button, a.tutor-btn, .tutor-btn {
+    background: #07294d;
+    border-color: #07294d;
+    color: #fff;
+}
+a.tutor-button:hover, .tutor-button:hover, a.tutor-btn:hover, .tutor-btn:hover {
+    background: #ffc600;
+    border-color: #ffc600;
+    color: #07294d;
+}
+.tutor-lead-info-btn-group .tutor-course-compelte-form-wrap button {
+    color: #fff;
+    background: #07294d;
+    border-color: #07294d;
+}
+.tutor-lead-info-btn-group .tutor-course-compelte-form-wrap button:hover {
+    background: #ffc600;
+    border-color: #ffc600;
+    color: #07294d;
+}
+.tutor-lead-info-btn-group .tutor-button.tutor-success {
+    border: 2px solid #ffc600;
+    color: #ffc600;
+}
+.tutor-lead-info-btn-group .tutor-button.tutor-success:hover {
+    background: #ffc600;
+    border-color: #ffc600;
+    color: #07294d;
+}
+#tutor-ask-question-form .tutor-form-group .tutor-button.tutor-success {
+    background: #ffc600;
+    border-color: #ffc600;
+    color: #07294d;
+}
+#tutor-ask-question-form .tutor-form-group .tutor-button.tutor-success:hover {
+    background: #07294d;
+    border-color: #07294d;
+    color: #fff;
+}
+.tutor-button.tutor-success {
+    background: #ffc600;
+    border-color: #ffc600;
+    color: #07294d;
+}
+.tutor-button.tutor-success:hover {
+    background: #07294d;
+    border-color: #07294d;
+    color: #fff;
+}
+.tutor-course-loop-title h2 a {
+    color: #07294d;
+}
+.tutor-course-loop-title h2 a:hover {
+    color: #ffc600;
+}
+.tutor-course-loop-meta {
+    color: #8a8a8a;
+}
+.tutor-course-loop-price {
+    color: #07294d;
+}
+.tutor-course-loop-price>.price .tutor-loop-cart-btn-wrap a::before {
+    color: #ffc600;
+}
+.tutor-course-loop-price>.price .tutor-loop-cart-btn-wrap a {
+    color: #8a8a8a;
+}
+
+.tutor-course-loop-header-meta .tutor-course-wishlist a {
+    color: #07294d;
+}
+.tutor-course-loop-header-meta .tutor-course-wishlist:hover {
+    background: #07294d;
+}
+.tutor-loop-author>div a:hover {
+    color: #ffc600;
+}
+.tutor-course-loop-level {
+    background: #07294d;
+    color: #fff;
+}
+.tutor-course-loop-price>.price .tutor-loop-cart-btn-wrap a:hover {
+    color: #ffc600;
+}
+.edubin-tutor-col-8 .woocommerce-message a.button.wc-forward {
+    background: #07294d;
+    color: #fff;
+}
+.edubin-tutor-col-8 .woocommerce-message a.button.wc-forward:hover {
+    background: #ffc600;
+    color: #07294d;
+}
+.tutor-price-preview-box .tutor-course-purchase-box button {
+    background: #07294d;
+}
+.tutor-price-preview-box .tutor-course-purchase-box button:hover {
+    background: #ffc600;
+    color: #07294d;
+}
+.tutor-course-enrolled-wrap p i, .tutor-course-enrolled-wrap p span {
+    color: #ffc600;
+}
+.tutor-topics-in-single-lesson .tutor-single-lesson-items a span {
+    color: #505050;
+}
+.tutor-lesson-sidebar-emptyqa-wrap {
+    color: #505050;
+}

@@ -1,0 +1,127 @@
+
+---Downloaded files---
+The import files for: Home v7 (LearnPress) were successfully downloaded!
+Initial max execution time = 36000
+Files info:
+Site URL = https://accalls-tc.test
+Data file = E:\laragon\www\accalls-tc/wp-content/themes/edubin/admin/demo/learnpress-red/content.xml
+Widget file = E:\laragon\www\accalls-tc/wp-content/themes/edubin/admin/demo/learnpress-red/widget_data.wie
+Customizer file = E:\laragon\www\accalls-tc/wp-content/themes/edubin/admin/demo/learnpress-red/customizer.dat
+Redux files:
+not defined!
+
+---pt-ocdi/before_content_import---
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Search - No Title - Widget already exists
+Edubin Recent Post - Recent Posts - Imported
+Categories - No Title - Widget already exists
+
+Footer 1 : 
+
+Image - No Title - Imported
+Text - No Title - Imported
+Text - No Title - Imported
+
+Footer 2 : 
+
+Navigation Menu - Feature Links - Imported
+
+Footer 3 : 
+
+Navigation Menu - Support - Imported
+
+Footer 4 : 
+
+Text - Contact Us - Imported
+
+The Events Calendar Single : 
+
+Events List - Upcoming Events - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
